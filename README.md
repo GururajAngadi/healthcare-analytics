@@ -10,7 +10,7 @@ This project analyzes healthcare data in Excel, covering patients, doctors, visi
 
 
 ## Dataset
-**[Dataset](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Dataset_Healthcare_Patient_V3.xlsx)**
+**[Dataset](https://github.com/GururajAngadi/healthcare-analytics/blob/main/Dataset_Healthcare_Patient_V3.xlsx)**
 
 
 ## KPIs & Charts  
@@ -30,10 +30,10 @@ This project analyzes healthcare data in Excel, covering patients, doctors, visi
 - **High-Risk Patients**  
 - **Gender-Wise Patient Distribution**  
 - **Types of Treatments**
-- **Dashboard Interaction Excel [View Dashboard](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Excel-Dashboard.png)**
-- **Dashboard Interaction Power BI 1 [View Dashboard](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Power%20Bi-Dashboard-1.png)**
-- **Dashboard Interaction Power BI 2 [View Dashboard](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Power%20Bi-Dashboard-2.png)**
-- **Dashboard Interaction Tableau [view Dashboard](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Tableau-Dashboard.png)**
+- **Dashboard Interaction Excel [View Dashboard](https://github.com/GururajAngadi/healthcare-analytics/blob/main/Excel-Dashboard.png)**
+- **Dashboard Interaction Power BI 1 [View Dashboard](https://github.com/GururajAngadi/healthcare-analytics/blob/main/Power%20Bi-Dashboard-1.png)**
+- **Dashboard Interaction Power BI 2 [View Dashboard](https://github.com/GururajAngadi/healthcare-analytics/blob/main/Power%20Bi-Dashboard-2.png)**
+- **Dashboard Interaction Tableau [view Dashboard](https://github.com/GururajAngadi/healthcare-analytics/blob/main/Tableau-Dashboard.png)**
 
 
 ## Process  
@@ -61,16 +61,16 @@ This project analyzes healthcare data in Excel, covering patients, doctors, visi
 ## Dashboards  
 
 - **Excel Dashboard** 
-**![Excel Dashboard](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Excel-Dashboard.png)**
+**![Excel Dashboard](https://github.com/GururajAngadi/healthcare-analytics/blob/main/Excel-Dashboard.png)**
 
 - **Power BI Dashboard 1**
-**![Power BI Dashboard 1](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Power%20Bi-Dashboard-1.png)**
+**![Power BI Dashboard 1](https://github.com/GururajAngadi/healthcare-analytics/blob/main/Power%20Bi-Dashboard-1.png)**
 
 - **Power BI Dashboard 2**
-**![Power BI Dashboard 2](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Power%20Bi-Dashboard-2.png)**
+**![Power BI Dashboard 2](https://github.com/GururajAngadi/healthcare-analytics/blob/main/Power%20Bi-Dashboard-2.png)**
 
 - **Tableau Dashboard**
-**![Tableau Dashboard](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Tableau-Dashboard.png)**
+**![Tableau Dashboard](https://github.com/GururajAngadi/healthcare-analytics/blob/main/Tableau-Dashboard.png)**
 
 
 ## Insights  
@@ -90,7 +90,7 @@ This project analyzes healthcare data in Excel, covering patients, doctors, visi
 
 
 ## SQL Queries
-**[SQL Queries](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/heathcare_project_queries.sql)**
+**[SQL Queries](https://github.com/GururajAngadi/healthcare-analytics/blob/main/heathcare_project_queries.sql)**
 
 
 ## Final Conclusion
